@@ -1,0 +1,26 @@
+# --- Ключи и секреты (НИКОГДА не коммитить) ---
+eleven.key
+*.key
+.env
+
+# --- Личные данные / память (создаётся при запуске) ---
+memory.json
+game_map.md
+game_memory.md
+chat.log
+palworld_debug.log
+
+# --- Логи и снимки ---
+скриншоты/*.png
+скриншоты/*.jpg
+MiaEvents/events.log
+MiaEvents/**/*.log
+
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+
+# --- Бэкапы ---
+*_backup_*
+*.bak

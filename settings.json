@@ -1,0 +1,14 @@
+{
+ "REPLY_WORDS": 20,
+ "TEMPERATURE": 0.9,
+ "EXTRA_PROMPT": "Используй матерный сленг умеренно для усиления эмоций!",
+ "STALE_SEC": 2,
+ "CHATTER_COOLDOWN_SEC": 90,
+ "RECENT_EVENTS": 50,
+ "IDLE_MIN_SEC": 240,
+ "IDLE_MAX_SEC": 336,
+ "MODEL": "gemini-3-flash-preview",
+ "EVENT_BUFFER": false,
+ "COMPANION_MODE": false,
+ "TTS_ENGINE": "eleven"
+}
